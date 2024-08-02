@@ -1,0 +1,3 @@
+{
+    if (chute > numeroSecreto) { }
+}
